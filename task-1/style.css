@@ -1,0 +1,95 @@
+#button-1{
+    background-color: #d50006;
+    border: none;
+    font-size: 20px;
+    color: white;
+    padding: 15px;
+    width: 180px;
+}
+#button-1:hover{
+    background-color: #fe1b41;
+    cursor: pointer;
+}
+
+#button-2{
+    background-color: #ffdc06;
+    border: 3px solid #3f45ff;
+    font-size: 22px;
+    color: #3f45ff;
+    padding: 9px;
+    margin-left: 40px;
+    width: 95px;
+}
+#button-2:hover{
+    background-color: #3f45ff;
+    color: #ffdc06;
+    cursor: pointer;
+}
+
+#button-3{
+    font-size: 18px;
+    width:120px;
+    padding: 9px;
+    color: #ffffff;
+    border: none;
+    border-radius: 30px;
+    margin-left: 40px;
+    background-image: -webkit-gradient(linear, left top, right bottom, from(#10d6da), to(#9ddc81));
+}
+#button-3:hover{
+    cursor: pointer;
+}
+
+#button-4{
+    background-color: white;
+    font-size: 20px;
+    color: #7900ed;
+    border: 2.5px solid #7900ed;
+    border-radius: 10px;
+    width: 110px;
+    padding: 8px;
+    margin-left: 40px;
+}
+#button-4:hover{
+    cursor: pointer;
+    background-color: #7900ed;
+    color: white;
+}
+
+#button-5{
+    color: #ffffff;
+    font-size: 20px;
+    padding: 11px;
+    width: 150px;
+    border: 1.5px solid #ff9b00;
+    border-radius: 6px;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#ffca00), to(#ff9b00));
+    margin-left: 40px;
+}
+#button-5:hover{
+    cursor: pointer;
+    background-color: #ff9b00 !important;
+    color: white;
+}
+
+#button-6{
+    background-color: #ffffff;
+    border: 2px solid #149df7;
+    padding: 13px;
+    width: 50px;
+    border-radius: 25px;
+    margin-left: 40px;
+}
+#button-6:hover{
+    background-color: #149df7;
+    color:white;
+    cursor: pointer;
+}
+#button-6:hover i{
+    color:white;
+    cursor: pointer;
+}
+#twitter-icon{
+    color: #149df7;
+    font-size: 18px;
+}
